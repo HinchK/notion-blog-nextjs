@@ -47,13 +47,12 @@ export default function Home({ posts }) {
               </g>
             </svg>
           </div>
-          <h1>Next.js blog powered by Notion API</h1>
+          <h1>DevOps Dojo</h1>
           <p>
-            This is an example of a Next.js blog with data fetched with Notions
-            API. The data comes from{" "}
+            A Next.js blog with data fetched with Notions API. The data comes from{" "}
             <a href={`https://www.notion.so/${databaseId}`}>this table</a>. Get
             the source code on{" "}
-            <a href="https://github.com/samuelkraft/notion-blog-nextjs">
+            <a href="https://github.com/hinchk/notion-blog-nextjs">
               Github
             </a>{" "}
             or read{" "}
