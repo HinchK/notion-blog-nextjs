@@ -57,7 +57,7 @@ export default function Home({ posts }) {
             </a>{" "}
             or read{" "}
             <a href="https://samuelkraft.com/blog/building-a-notion-blog-with-public-api">
-              my blogpost
+              the same article I did
             </a>{" "}
             on building your own.
           </p>
